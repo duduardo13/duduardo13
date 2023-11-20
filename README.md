@@ -2,7 +2,6 @@ Olá, eu sou o Eduardo Barbosa
 
 
 - 🌱 Estudando ECMAScript 6 
-- 😄 Pronouns: ele/dele
 
 ##
 
