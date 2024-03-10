@@ -1,10 +1,3 @@
-Olá, eu sou o Eduardo Barbosa
-
-
-- 🌱 Estudando ECMAScript 6 
-
-##
-
 <a href="https://github.com/duduardo13/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=duduardo13&show_icons=true&theme=transparent" />
 </a>
